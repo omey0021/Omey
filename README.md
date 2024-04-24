@@ -1,0 +1,2 @@
+# Omey
+Crypto hunter
